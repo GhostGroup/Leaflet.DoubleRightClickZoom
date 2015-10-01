@@ -1,8 +1,9 @@
-#Leaflet.DoubleRightClickZoom
-======================
+# Leaflet.DoubleRightClickZoom
 
-An interaction handler that allows the map to be zoomed out by double
-right click.
+Plugin for [Leaflet](http://leafletjs.com/) that adds an interaction handler
+that allows the map to be zoomed out by double right click.
+
+[Demo](http://ghostgroup.github.io/Leaflet.DoubleRightClickZoom)
 
 ##Usage
 
