@@ -1,4 +1,4 @@
-// Leaflet.DoubleRightClickZoom v1.0
+// Leaflet.DoubleRightClickZoom v1.0.1
 // https://github.com/GhostGroup/Leaflet.DoubleRightClickZoom
 // Lets users double right click to zoom out on all maps.
 
@@ -20,9 +20,9 @@ L.Map.DoubleRightClickZoom = L.Handler.extend({
       setTimeout(((function(_this) {
         return function() {
           if (_this._map.clicks === 1) {
-            console.log('single click!');
+            // single click
           } else {
-            console.log('double click!');
+            // double click
             _this._map.setZoom(Math.ceil(_this._map.getZoom()) - 1);
           }
           _this._map.clicks = 0;
