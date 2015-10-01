@@ -1,0 +1,16 @@
+{
+  "name": "leaflet.rightclickzoom",
+  "version": "1.0.0",
+  "author": "Mike O'Toole <mpotoole@gmail.com>",
+  "description": "Double right click zoom out for LeafletJS",
+  "dependencies": {
+    "leaflet": "0.7.x || 1.0.x"
+  },
+  "main": "src/leaflet.rightclickzoom.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GhostGroup/Leaflet.DoubleRightClickZoom.git"
+  },
+  "keywords": ["maps", "leaflet"],
+  "license": "MIT"
+}
