@@ -1,6 +1,6 @@
 {
   "name": "leaflet.rightclickzoom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Mike O'Toole <mpotoole@gmail.com>",
   "description": "Double right click zoom out for LeafletJS",
   "dependencies": {
